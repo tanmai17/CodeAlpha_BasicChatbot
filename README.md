@@ -15,5 +15,5 @@ A simple **rule-based chatbot** built in Python as part of my CodeAlpha Internsh
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/CodeAlpha_BasicChatbot.git
+   git clone https://github.com/<tanmai17>/CodeAlpha_BasicChatbot.git
    cd CodeAlpha_BasicChatbot
